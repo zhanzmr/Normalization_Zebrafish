@@ -26,7 +26,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-Rui Xie1, Mengrui Zhang1, Prahatha Venkatraman2, Xinlian Zhang1, Gaonan Zhang2, Robert Carmer3, Skylar A. Kantola2, Chi Pui Pang4, Ping Ma1, Mingzhi Zhang5*, Wenxuan Zhong1*, Yuk Fai Leung2,6,7,8*
+Rui Xie, Mengrui Zhang, Prahatha Venkatraman, Xinlian Zhang, Gaonan Zhang, Robert Carmer, Skylar A. Kantola, Chi Pui Pang, Ping Ma, Mingzhi Zhang, Wenxuan Zhong, Yuk Fai Leung
 
 ## License
 
