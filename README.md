@@ -1,4 +1,4 @@
-# Normalization_Zebrafish
+# Normalization of large-scale behavioural data collected from zebrafish
 This is the R code associated with "Normalization of large-scale behavioural data collected from zebrafish".
 
 This methods will help you remove some of the noise from the experiments such as batch effects. 
